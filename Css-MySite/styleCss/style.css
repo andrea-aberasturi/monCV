@@ -1,0 +1,109 @@
+body{
+    background-color: #FEF5ED;
+    margin: 0px;
+    text-align: center;
+    font-family:  'Montserrat', sans-serif;
+}
+h1{
+    line-height: 1;
+    font-family: 'Sacramento', cursiva;
+    font-size: 60px;
+    margin: 50px auto 0 auto;
+}
+
+h2{
+    font-family: 'Sacramento', cursiva;
+    font-size: 40px;
+}
+
+p{
+    font-family: 'Be Vietnam Pro', sans-serif;
+}
+
+hr{
+    border: dotted  6px;
+    width: 6%;
+    border-bottom: none;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: blanchedalmond;
+}
+
+.container{
+    width: 100%;
+    margin: 0px;
+    position: relative;
+    padding-top: 100px;
+}
+.medium{
+    background-color: #FFF9F9;
+}
+
+.cloudTop{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.cloudButton{
+    position: absolute;
+    left: 300px;
+    bottom: 250px;
+}
+
+.button{
+    background-color: #66BFBF;
+    padding: 40px 0 20px;
+    margin: 0%;
+}
+
+.monProfile{
+    width: 8%;
+    height: 8%;
+    border-radius: 100%;
+    margin: 40px 0 40px 0;
+    color: #40514E;
+    line-height: 1;
+    font-size: 18px;
+}
+
+.java{
+    width: 40%;
+    height: 40%;
+    border-radius: 100%;
+    float: left;
+    margin-right: 20px;
+}
+
+.word{
+    width: 40%;
+    height: 40%;
+    border-radius: 100%;
+    float: right;
+    margin-left: 10px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+    font-size: 17px;
+}
+
+.word{
+    width: 30%;
+}
+
+.java{
+    width: 30%;
+}
+
+.paragraph{
+    width: 30%;
+    margin: auto;
+}
